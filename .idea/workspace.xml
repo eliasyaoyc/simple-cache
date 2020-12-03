@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84f46776-3ec7-4ce9-bd11-c0658f92607f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1l6e4rNDWbqPCPQNNtK4PWdzsPF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pkg" />
+    <property name="settings.editor.selected.configurable" value="go.autoimport" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pkg" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="405" y="208" key="SettingsEditor" timestamp="1606986142372">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="405" y="208" key="SettingsEditor/0.25.1792.1095/1792.25.1920.1055@0.25.1792.1095" timestamp="1606986142372" />
+    <state x="626" y="308" width="540" height="524" key="StructurePopup" timestamp="1606989786861">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="626" y="308" width="540" height="524" key="StructurePopup/0.25.1792.1095/1792.25.1920.1055@0.25.1792.1095" timestamp="1606989786861" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1606987603815">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.25.1792.1095/1792.25.1920.1055@0.25.1792.1095" timestamp="1606987603815" />
+    <state x="597" y="327" width="597" height="490" key="find.popup" timestamp="1606987829947">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="597" y="327" width="597" height="490" key="find.popup/0.25.1792.1095/1792.25.1920.1055@0.25.1792.1095" timestamp="1606987829947" />
+    <state x="561" y="269" width="670" height="676" key="search.everywhere.popup" timestamp="1606987824730">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="561" y="269" width="670" height="676" key="search.everywhere.popup/0.25.1792.1095/1792.25.1920.1055@0.25.1792.1095" timestamp="1606987824730" />
+  </component>
+</project>
